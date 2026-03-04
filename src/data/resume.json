@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Shahnawaz Khan",
+    "title": "Frontend Developer || Data Analytics Enthusiast",
+    "summary": "Hi, I’m Shahnawaz, a B.Tech CSE student (2026) at AKTU, with a diploma in engineering and a strong passion for Frontend Development and Data Analytics. I specialize in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS. I’ve also developed dashboards using Power BI for visualizing real-world data insights. On the analytics side, I’m skilled in Python and SQL, capable of cleaning, transforming, and analyzing large datasets to drive meaningful decisions. Currently upskilling in Prompt Engineering and exploring how AI tools can enhance development and analytics workflows.",
+    "location": "Gorakhpur, Uttar Pradesh, India",
+    "email": "shahnawazkhansk492@gmail.com",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shahnawaz-khan-773832248"
+      }
+    ],
+    "interests": [
+      "Frontend Development",
+      "Data Analytics",
+      "Software Development"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Unstop",
+      "role": "Campus Ambassador",
+      "dates": "November 2025 - Present",
+      "location": "Gorakhpur, Uttar Pradesh, India",
+      "bullets": [
+        "Representing Unstop on campus to promote opportunities and events."
+      ]
+    },
+    {
+      "company": "Coding Ninjas 10X Club",
+      "role": "Team Member",
+      "dates": "January 2025 - Present",
+      "location": "Gorakhpur, Uttar Pradesh, India",
+      "bullets": [
+        "Active member of the 10X Club focusing on advanced coding and project development."
+      ]
+    },
+    {
+      "company": "KIPM College of Engineering and Technology",
+      "role": "Student(CSE)",
+      "dates": "August 2023 - Present",
+      "location": "Gorakhpur, Uttar Pradesh, India",
+      "bullets": [
+        "Pursuing Bachelor of Technology in Computer Science & Engineering."
+      ]
+    },
+    {
+      "company": "Internshala",
+      "role": "ISP",
+      "dates": "July 2025 - September 2025",
+      "location": "Gorakhpur, Uttar Pradesh, India",
+      "bullets": [
+        "Participated in the Internshala Student Partner program."
+      ]
+    },
+    {
+      "company": "Muskurahat Foundation",
+      "role": "Intern",
+      "dates": "July 2025 - August 2025",
+      "location": "Gorakhapur",
+      "bullets": [
+        "Contributed to social impact initiatives during the internship."
+      ]
+    },
+    {
+      "company": "KHY Electronic India Pvt. Ltd.",
+      "role": "Electrical Engineer",
+      "dates": "January 2023 - April 2023",
+      "location": "Noida, Uttar Pradesh, India",
+      "bullets": [
+        "Worked as an Electrical Engineer focusing on electronic systems."
+      ]
+    },
+    {
+      "company": "Board of Technical Education, Uttar Pradesh (BTEUP)",
+      "role": "Diploma Engineer",
+      "dates": "August 2019 - July 2022",
+      "location": "Gorakhpur, Uttar Pradesh, India",
+      "bullets": [
+        "Completed Diploma in Engineering."
+      ]
+    }
+  ],
+  "skills": {
+    "Top Skills": ["Jupyter", "EDA", "Data Analysis"],
+    "Technical": [
+      "HTML", "CSS", "JavaScript", "React", "Tailwind CSS", 
+      "Power BI", "Python", "SQL", "Prompt Engineering", 
+      "JAVA", "Numpy", "Pandas", "Matplotlib"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Dr. A.P.J. Abdul Kalam Technical University",
+      "degree": "Bachelor of Technology - BTech, Computer science & Engineering",
+      "dates": "August 2023 - June 2026"
+    },
+    {
+      "institution": "BOARD OF TECHNICAL EDUCATION UTTAR PRADESH",
+      "degree": "Diploma, Engineering",
+      "dates": "August 2019 - June 2022"
+    },
+    {
+      "institution": "Bhumidhar inter college sikariganj Gorakhpur",
+      "degree": "Intermediate (12th) Mathmatics",
+      "dates": "July 2018 - April 2019"
+    },
+    {
+      "institution": "Bhumidhar inter college sikariganj Gorakhpur",
+      "degree": "Highschool (10th) science",
+      "dates": "August 2016 - April 2017"
+    }
+  ],
+  "certifications": [
+    "Introduction to Generative AI",
+    "Certificate of Participation in Round 1: Online Assessment of HP Power Lab 2.0",
+    "SQL Course (Self Learnings)",
+    "Foundations of Cybersecurity",
+    "Foundation of Prompt Engineering"
+  ],
+  "extra": [
+    "I love to learn, collaborate, and work on impactful projects.",
+    "Open to internship opportunities and freelance projects in Frontend Development, Data Analytics, and Software Development."
+  ]
+}
